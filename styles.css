@@ -1,7 +1,7 @@
 /* Your CSS Code here. */
 #btn
 {
-    background-color: black;
+    background: black;
     color: white;
     border: none;
     border-radius: 5px;
@@ -9,7 +9,7 @@
 
 #btn:hover
 {
-    background-color: yellow;
+    background: yellow;
     color: black;
     border: none;
     border-radius: 30px;

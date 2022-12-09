@@ -1,0 +1,4 @@
+{
+    "testRepo": "hover-button-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
